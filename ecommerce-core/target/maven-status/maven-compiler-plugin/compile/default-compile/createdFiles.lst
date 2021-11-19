@@ -1,0 +1,8 @@
+org/example/ecommerce/domains/entities/Category.class
+org/example/ecommerce/domains/entities/CartItem.class
+org/example/ecommerce/domains/entities/Product.class
+org/example/ecommerce/domains/port/ProductRepositoryPort.class
+org/example/ecommerce/domains/entities/BaseEntity.class
+org/example/ecommerce/domains/request/ProductFilterRequest.class
+org/example/ecommerce/domains/entities/Cart.class
+org/example/ecommerce/domains/usecase/GetProductsUseCase.class

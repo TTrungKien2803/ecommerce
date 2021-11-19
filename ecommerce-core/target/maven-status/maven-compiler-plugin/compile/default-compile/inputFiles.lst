@@ -1,0 +1,8 @@
+/home/kientran4/Documents/ecommerce/ecommerce-core/src/main/java/org/example/ecommerce/domains/usecase/GetProductsUseCase.java
+/home/kientran4/Documents/ecommerce/ecommerce-core/src/main/java/org/example/ecommerce/domains/entities/CartItem.java
+/home/kientran4/Documents/ecommerce/ecommerce-core/src/main/java/org/example/ecommerce/domains/port/ProductRepositoryPort.java
+/home/kientran4/Documents/ecommerce/ecommerce-core/src/main/java/org/example/ecommerce/domains/entities/Cart.java
+/home/kientran4/Documents/ecommerce/ecommerce-core/src/main/java/org/example/ecommerce/domains/request/ProductFilterRequest.java
+/home/kientran4/Documents/ecommerce/ecommerce-core/src/main/java/org/example/ecommerce/domains/entities/Category.java
+/home/kientran4/Documents/ecommerce/ecommerce-core/src/main/java/org/example/ecommerce/domains/entities/BaseEntity.java
+/home/kientran4/Documents/ecommerce/ecommerce-core/src/main/java/org/example/ecommerce/domains/entities/Product.java
